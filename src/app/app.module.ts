@@ -21,7 +21,6 @@ import { LogService } from './services/log.service';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-    NgModule,
   ],
   providers: [LogService],
   bootstrap: [AppComponent]
